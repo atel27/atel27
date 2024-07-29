@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atel27
-- 👀 I’m interested in web devellopment and also web designing
-- 🌱 I’m currently learning web development,and also programing languages like HTML, css and JS.
--I currently picked up some online courses on E - commerce  and am gradually making progress in it. 
+- 👀 I’m interested in web development and also web designing
+- 🌱 I’m currently learning web development,and also programming languages like HTML, css and JS.
+-I currently picked up an online programme on E - commerce  and am gradually making progress in it. 
 - 💞️ I’m looking to collaborate on new projects to gain more inside, new experiences, have more knowledge and to take part in more hands on activities so as to gain more skills.
 - 📫 You can reach me via mail using ngwenjeiatel@gmail.com,
 - 😄 Pronouns:...She/Her
