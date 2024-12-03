@@ -10,7 +10,7 @@
 -I love children and love to make them happy.
 -I can solve the tower of Hanoi puzzle in 6 steps
 -I love sportive activities and my best game is football.
--I also love coding and want to know much about it. Above all gain more knowledge on the coding languages. Finally I love to cook African home made meals (the real taste of the African woman)
+-I also love coding and want to know much about it. Above all gain more knowledge on some coding languages. Finally I love to cook African home made meals (the real taste of the African woman)
 
 
 
